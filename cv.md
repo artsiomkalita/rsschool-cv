@@ -1,4 +1,4 @@
-##Artsiom Kalita
+## Artsiom Kalita
 __Addres:__ _Minsk, Odoevskogo, 101a, 236_
  __Cell number:__ _+375 25 547 34 84_
 __E-mail:__ _vas.vollkov@gmail.com_
@@ -10,7 +10,7 @@ _Third-year student of the Minsk College of Electronics is interested to work as
 ### Languages:
 _Russian (native),  English (fluent)_
 ### Professional Experience:
-Finished courses at the IT Academy in programming languages: C++, HTML/CSS, Python, Unity
+_Finished courses at the IT Academy in programming languages: C++, HTML/CSS, Python, Unity_
 ### Example of my code (Python):
 import telebot
 from telebot import types
@@ -191,3 +191,12 @@ def callback_worker(call):
 
 
 bot.polling(none_stop=True, interval=0)
+
+
+### Education and Qualification:
+
+_Finished courses at the IT Academy in programming languages: C++, HTML/CSS, Python, Unity_
+
+### EDUCATION:
+
+_elementary education, secondary education, college education_
