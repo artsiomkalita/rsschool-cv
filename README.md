@@ -1,1 +1,1 @@
-# rsschool-cv
+https://artsiomkalita.github.io/rsschool-cv/cv
